@@ -12,6 +12,10 @@ blue #004e81
   margin-left: 0;
   margin-right: 0;
 }
+#logo .navbar-brand {
+  padding-top: 0px ;
+  padding-bottom: 0px ;
+}
 *::-webkit-input-placeholder {
 	color: #666;
 	opacity: 1;
@@ -783,10 +787,10 @@ ii
  
 }
 .right_text {
-   padding: 0px 30px 0px 15px;
+   padding: 10px 30px 0px 15px;
 }
 .left_text {
-   padding: 0px 15px 0px 30px;
+   padding: 10px 15px 0px 30px;
 }
 .patientsimagetext h2 {
   opacity: 0.8;
@@ -915,6 +919,11 @@ ii
   text-align: center;
   text-transform: uppercase;
   font-size: 70px;
-  margin-top: -13px;
+  margin-top: 5px;
   cursor: default;
 }
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }

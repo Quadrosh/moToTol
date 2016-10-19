@@ -12,6 +12,13 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
+    .bikename {
+      height: 80px;
+    }
+    .bikename h2 {
+        font-size: 46px;
+        margin-top: 9px;
+    }
 	
 	/*Disable Animation on Mobile Devices*/
 	.animated {
@@ -49,10 +56,16 @@
 		padding: 0px;
 	}
 	.centerlead h1{
-
 	  font-size: 24px;
-
 	}
+    .bikename {
+      height: 60px;
+    }
+    .bikename h2 {
+        font-size: 28px;
+        margin-top: 9px;
+    }
+	
 }
 
 /* Custom, iPhone Retina */

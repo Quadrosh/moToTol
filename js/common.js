@@ -33,6 +33,8 @@
 
 $('document').ready(function () {
 
+	
+
 	var startnumbers = new TimelineLite();
 	startnumbers.set("#motorcycle", {css:{y:-20, scale:0.6}})
 	;
