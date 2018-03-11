@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b3a3e5-2a60-4a9e-9f61-77cbb7fcd15a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brp800_1.jpg" afterPath="$PROJECT_DIR$/img/brp800_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brp800_2.jpg" afterPath="$PROJECT_DIR$/img/brp800_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brp800_3.jpg" afterPath="$PROJECT_DIR$/img/brp800_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/brp800_4.jpg" afterPath="$PROJECT_DIR$/img/brp800_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patients.html" afterPath="$PROJECT_DIR$/patients.html" />
-    </list>
+    <list default="true" id="35b3a3e5-2a60-4a9e-9f61-77cbb7fcd15a" name="Default" comment="" />
     <ignored path="moToTol.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
